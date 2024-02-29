@@ -16,6 +16,6 @@
   "BOT": {
     "GATE_1": true
   },
-  "url_spider": "https://subscription.capitalgazette.com/MTRDigital?Ofrgp_ID=5741&g2i_or_o=SB&g2i_or_p=Index&siteCode=247&g2i_or_os=CGFD22&returnUrl=https%3A%2F%2Fwww.capitalgazette.com%2Fcontact-us%2F%3FnewUser%3Dtrue&g2i_source=SB&g2i_medium=nav2&g2i_campaign=FD22",
-  "url_trueno": "https://subscription.pilotonline.com/MTRDigital?Ofrgp_ID=5741&g2i_or_o=SB&g2i_or_p=Index&siteCode=750&g2i_or_os=VPFD22&returnUrl=https%3A%2F%2Fwww.pilotonline.com%2F%3FnewUser%3Dtrue&g2i_source=SB&g2i_medium=nav2&g2i_campaign=FD22"
+  "url_spider": "https://subscription.nydailynews.com/MTRDigital?Ofrgp_ID=5741&g2i_or_o=SB&g2i_or_p=Index&siteCode=850&g2i_or_os=NYFD22&returnUrl=https%3A%2F%2Fwww.nydailynews.com%2F%3FdssReturn%3Dtrue%3FnewUser%3Dtrue&g2i_source=SB&g2i_medium=nav2&g2i_campaign=FD22",
+  "url_trueno": "https://subscription.baltimoresun.com/MTRDigital?Ofrgp_ID=5741&g2i_or_o=SB&g2i_or_p=Index&siteCode=200&g2i_or_os=BSFD22&returnUrl=https%3A%2F%2Fwww.baltimoresun.com%2F%3FnewUser%3Dtrue&g2i_source=SB&g2i_medium=nav2&g2i_campaign=FD22"
 }
