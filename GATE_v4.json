@@ -8,10 +8,10 @@
     "GATE_6": true
   },
   "CCN": {
-    "GATE_1": true,
-    "GATE_2": true,
-    "GATE_3": true,
-    "GATE_4": true
+    "GATE_1": false,
+    "GATE_2": false,
+    "GATE_3": false,
+    "GATE_4": false 
   },
   "BOT": {
     "GATE_1": true,
