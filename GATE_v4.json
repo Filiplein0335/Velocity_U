@@ -15,7 +15,7 @@
   },
   "BOT": {
     "GATE_1": false,
-    "GATE_2": false
+    "GATE_2": false,
     "GATE_3": false,
     "GATE_4": false
   },
