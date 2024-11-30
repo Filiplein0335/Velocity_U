@@ -2,7 +2,7 @@
   "CHARGUE": {
     "GATE_1": false,
     "GATE_2": false,
-    "GATE_3": false,
+    "GATE_3": true,
     "GATE_4": true,
     "GATE_5": false,
     "GATE_6": false
