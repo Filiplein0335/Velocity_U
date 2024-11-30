@@ -4,8 +4,8 @@
     "GATE_2": false,
     "GATE_3": false,
     "GATE_4": true,
-    "GATE_5": true,
-    "GATE_6": true
+    "GATE_5": false,
+    "GATE_6": false
   },
   "CCN": {
     "GATE_1": true,
