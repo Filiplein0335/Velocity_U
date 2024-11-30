@@ -4,8 +4,8 @@
     "GATE_2": false,
     "GATE_3": false,
     "GATE_4": true,
-    "GATE_5": false,
-    "GATE_6": false
+    "GATE_5": true,
+    "GATE_6": true
   },
   "CCN": {
     "GATE_1": true,
@@ -16,8 +16,8 @@
   "BOT": {
     "GATE_1": false,
     "GATE_2": true,
-    "GATE_3": true,
-    "GATE_4": true
+    "GATE_3": false,
+    "GATE_4": false
   },
   "url_spider": "https://subscription.chicagotribune.com/MTRDigital?Ofrgp_ID=5741&g2i_or_o=SB&g2i_or_p=Index&siteCode=300&g2i_or_os=CTFD22&returnUrl=https%3A%2F%2Fwww.chicagotribune.com%2F%3FnewUser%3Dtrue&g2i_source=SB&g2i_medium=nav2&g2i_campaign=FD22",
   "url_trueno": "https://subscription.pilotonline.com/MTRDigital?Ofrgp_ID=5741&g2i_or_o=SB&g2i_or_p=Index&siteCode=750&g2i_or_os=VPFD22&returnUrl=https%3A%2F%2Fwww.pilotonline.com%2F%3FnewUser%3Dtrue&g2i_source=SB&g2i_medium=nav2&g2i_campaign=FD22"
